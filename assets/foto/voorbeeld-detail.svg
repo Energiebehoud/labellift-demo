@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#F8FAFC"/>
+  <!-- etiket-kaart -->
+  <rect x="250" y="180" width="320" height="210" rx="12" fill="#ffffff" stroke="#0B1220" stroke-width="5"/>
+  <rect x="250" y="180" width="320" height="50" rx="12" fill="#14B8A6"/>
+  <rect x="250" y="214" width="320" height="16" fill="#14B8A6"/>
+  <text x="272" y="214" font-family="Montserrat,Arial,sans-serif" font-size="22" font-weight="700" fill="#04201C">ISOLATIE · type/merk</text>
+  <line x1="278" y1="262" x2="500" y2="262" stroke="#C3CEDC" stroke-width="9" stroke-linecap="round"/>
+  <line x1="278" y1="294" x2="540" y2="294" stroke="#C3CEDC" stroke-width="9" stroke-linecap="round"/>
+  <line x1="278" y1="326" x2="470" y2="326" stroke="#C3CEDC" stroke-width="9" stroke-linecap="round"/>
+  <!-- vergrootglas -->
+  <circle cx="540" cy="350" r="58" fill="rgba(255,255,255,0.35)" stroke="#0B1220" stroke-width="8"/>
+  <line x1="582" y1="392" x2="630" y2="440" stroke="#0B1220" stroke-width="14" stroke-linecap="round"/>
+  <!-- chip -->
+  <rect x="40" y="40" width="168" height="46" rx="23" fill="#0B1220"/>
+  <circle cx="66" cy="63" r="7" fill="#14B8A6"/>
+  <text x="84" y="70" font-family="Montserrat,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff">Voorbeeld</text>
+  <text x="400" y="450" text-anchor="middle" font-family="Montserrat,Arial,sans-serif" font-size="30" font-weight="700" fill="#0B1220">Etiket (merk/type/dikte)</text>
+</svg>

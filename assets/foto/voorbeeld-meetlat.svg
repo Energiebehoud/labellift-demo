@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#F8FAFC"/>
+  <!-- isolatielagen -->
+  <rect x="250" y="210" width="380" height="46" rx="6" fill="#CDEFE9" stroke="#0E9384" stroke-width="3"/>
+  <rect x="250" y="262" width="380" height="46" rx="6" fill="#9FE0D6" stroke="#0E9384" stroke-width="3"/>
+  <rect x="250" y="314" width="380" height="46" rx="6" fill="#5FCBBC" stroke="#0E9384" stroke-width="3"/>
+  <!-- meetlat -->
+  <rect x="180" y="200" width="40" height="170" rx="5" fill="#ffffff" stroke="#0B1220" stroke-width="4"/>
+  <g stroke="#0B1220" stroke-width="3">
+    <line x1="180" y1="218" x2="206" y2="218"/><line x1="180" y1="240" x2="200" y2="240"/>
+    <line x1="180" y1="262" x2="206" y2="262"/><line x1="180" y1="284" x2="200" y2="284"/>
+    <line x1="180" y1="306" x2="206" y2="306"/><line x1="180" y1="328" x2="200" y2="328"/>
+    <line x1="180" y1="350" x2="206" y2="350"/>
+  </g>
+  <!-- maatpijl -->
+  <g stroke="#14B8A6" stroke-width="4">
+    <line x1="660" y1="210" x2="660" y2="360"/>
+    <path d="M660 210 l-8 14 h16 z" fill="#14B8A6" stroke="none"/>
+    <path d="M660 360 l-8 -14 h16 z" fill="#14B8A6" stroke="none"/>
+  </g>
+  <text x="690" y="295" font-family="Montserrat,Arial,sans-serif" font-size="26" font-weight="700" fill="#0E9384">dikte</text>
+  <!-- chip -->
+  <rect x="40" y="40" width="168" height="46" rx="23" fill="#0B1220"/>
+  <circle cx="66" cy="63" r="7" fill="#14B8A6"/>
+  <text x="84" y="70" font-family="Montserrat,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff">Voorbeeld</text>
+  <text x="400" y="430" text-anchor="middle" font-family="Montserrat,Arial,sans-serif" font-size="30" font-weight="700" fill="#0B1220">Dikte met meetlat</text>
+</svg>
